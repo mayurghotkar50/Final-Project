@@ -1,0 +1,23 @@
+.carousel-item active .btn{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate()
+
+}
+
+
+
+.footer{
+    background-color: rgb(184, 179, 179);
+}
+
+ul li a{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul li a:hover{
+    color: aqua;
+}
+
